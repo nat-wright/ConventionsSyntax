@@ -1,1 +1,5 @@
 Conventions and syntax are basically like grammar for unity and C#
+They're guidelines to help the user write code without having too many problems, and if they do have problems, how to fix them.
+{It is important to remember that to start and end a section of code you have to add opening and closing curly brackets}
+If you are going to end a line of code you need to use a semicolon;
+The equal sign is meant to assign a piece of code to another piece of code =
